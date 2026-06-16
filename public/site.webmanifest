@@ -1,0 +1,13 @@
+{
+  "name": "Dnyanesh Rane | Supply Chain Professional",
+  "short_name": "DR Portfolio",
+  "description": "Supply Chain & Procurement Professional Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050B18",
+  "theme_color": "#38BDF8",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/apple-touch-icon.svg", "sizes": "180x180", "type": "image/svg+xml" }
+  ]
+}

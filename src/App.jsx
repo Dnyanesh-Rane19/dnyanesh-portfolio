@@ -20,7 +20,7 @@ const PHONE    = "(667) 320-1364";
 const LOCATION = "New Jersey, USA";
 const LINKEDIN = "https://www.linkedin.com/in/dnyaneshrane191281/";
 const GITHUB   = "https://github.com/dnyaneshrane191281";  // update to real username
-const RESUME   = "/Dnyanesh_Rane_Resume.pdf";              // place PDF in /public
+const RESUME   = "/resume.pdf";              // place PDF in /public
 const YEAR     = new Date().getFullYear();
 
 // ── HOOKS ─────────────────────────────────────────────────────────────────────

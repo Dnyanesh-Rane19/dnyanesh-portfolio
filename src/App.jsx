@@ -347,6 +347,9 @@ const CERTS = [
   { icon:"🎓", title:"B.Com Accounting & Finance",      sub:"K.J. Somaiya College · University of Mumbai",                 detail:"GPA 3.78 · April 2022",                             color:"#818CF8", active:true  },
   { icon:"🥋", title:"Lean Six Sigma Green Belt",       sub:"Process Improvement Certification",                           detail:"Awarded during MS Program at UMD",                  color:"#34D399", active:true  },
   { icon:"🏆", title:"1st Place — Case Competition",    sub:"E-livestock Global · UMD Orientation",                        detail:"Supply chain strategy presentation",                color:"#FBBF24", active:true  },
+  { icon:"📘", title:"SAP Finance & Controlling (FI-CO)", sub:"SAP Learning Hub",                                          detail:"Issued Jun 2022",                                   color:"#38BDF8", active:true  },
+  { icon:"🌱", title:"BCG Climate & Sustainability Job Simulation", sub:"Forage",                                          detail:"Issued Sep 2025",                                   color:"#34D399", active:true  },
+  { icon:"📊", title:"Spreadsheet Modeling",            sub:"Harvard Business Impact Education",                           detail:"Issued Aug 2024",                                   color:"#818CF8", active:true  },
   { icon:"📋", title:"APICS / ASCM — CSCP or CPIM",    sub:"ASCM Certified Supply Chain Professional",                    detail:"Planned — In Progress",                            color:"#F472B6", active:false },
   { icon:"📋", title:"PMP — Project Mgmt Professional", sub:"Project Management Institute",                                detail:"Planned — Upcoming",                               color:"#38BDF8", active:false },
 ];

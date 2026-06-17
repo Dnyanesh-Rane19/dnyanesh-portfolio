@@ -657,10 +657,7 @@ export default function App() {
           </div>
         </div>
 
-        <div aria-hidden="true" style={{ position:"absolute", bottom:"2rem", left:"50%", transform:"translateX(-50%)", display:"flex", flexDirection:"column", alignItems:"center", gap:"0.38rem" }}>
-          <div style={{ fontSize:"0.56rem", color:"rgba(255,255,255,0.16)", letterSpacing:"0.14em" }}>SCROLL</div>
-          <div style={{ width:1, height:30, background:"linear-gradient(to bottom,rgba(56,189,248,0.48),transparent)" }} />
-        </div>
+        
       </section>
 
       {/* ── KPI STRIP ── */}

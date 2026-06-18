@@ -832,7 +832,7 @@ export default function App() {
             <span style={{ background:"linear-gradient(135deg,#38BDF8,#818CF8,#34D399)", WebkitBackgroundClip:"text", WebkitTextFillColor:"transparent", backgroundClip:"text" }}>Your Supply Chain?</span>
           </h2>
           <p style={{ color:"rgba(255,255,255,0.38)", fontSize:"0.88rem", lineHeight:1.82, marginBottom:"2.4rem" }}>
-            I'm actively seeking roles in supply chain management, procurement, inventory management, and operations at companies such as Amazon, Tesla, Boeing, Microsoft, Lockheed Martin, and leading consulting firms.
+            I'm actively seeking roles in supply chain management, procurement, inventory management, and operations across technology, manufacturing, defense, and consulting industries.
           </p>
           <div style={{ display:"flex", flexDirection:"column", gap:"0.8rem", maxWidth:420, margin:"0 auto 1.6rem" }}>
             <a href={`mailto:${EMAIL}`} style={{ ...btnBase, background:"linear-gradient(135deg,#38BDF8,#818CF8)", color:"#050B18", fontWeight:800, boxShadow:"0 4px 28px rgba(56,189,248,0.22)" }}
